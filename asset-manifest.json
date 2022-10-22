@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anon-app/static/css/main.243b75b7.css",
+    "main.js": "/anon-app/static/js/main.af0b9fcc.js",
+    "static/js/787.05a5ce95.chunk.js": "/anon-app/static/js/787.05a5ce95.chunk.js",
+    "static/media/logo.svg": "/anon-app/static/media/logo.4632e7848eb28b4f2baccce8d72ea87f.svg",
+    "index.html": "/anon-app/index.html",
+    "main.243b75b7.css.map": "/anon-app/static/css/main.243b75b7.css.map",
+    "main.af0b9fcc.js.map": "/anon-app/static/js/main.af0b9fcc.js.map",
+    "787.05a5ce95.chunk.js.map": "/anon-app/static/js/787.05a5ce95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243b75b7.css",
+    "static/js/main.af0b9fcc.js"
+  ]
+}
